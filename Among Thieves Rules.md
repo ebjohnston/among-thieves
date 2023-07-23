@@ -11,13 +11,13 @@
 
 ---
 ## Gameplay
-Each game will follow these three steps: [[The Rules#Setup|Setup]] then [[The Rules#Rounds|Rounds]] until a thief [[The Rules#Winning the Game|Wins]].
+Each game will follow these three steps: [[Among Thieves Rules#Setup|Setup]] then [[Among Thieves Rules#Rounds|Rounds]] until a thief [[Among Thieves Rules#Winning the Game|Wins the Game]].
 
 ### Setup
 ![[Setup]]
 
 ### Rounds
-![[Round|]]
+![[Round]]
 
 ### Winning the Game
 ![[Winning the Game]]
